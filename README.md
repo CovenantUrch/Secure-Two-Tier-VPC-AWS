@@ -135,5 +135,5 @@ You have now established a communication between the Bastion Host in the Public 
 | No network isolation | VPC with subnet tiers |
 
 <h1>🙋 Author</h1>
-Covenant Onwukwe**  
+**Covenant Onwukwe**  
 Cloud Builder | AWS Projects | Lagos, Nigeria
